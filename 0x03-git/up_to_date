@@ -4,3 +4,4 @@ git push origin main
 git checkout main
 git status
 git branch branch_name
+git pull
